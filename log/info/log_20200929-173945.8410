@@ -1,0 +1,4 @@
+Log file created at: 2020/09/29 17:39:45
+Running on machine: ou-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0929 17:39:45.853003  8410 test.cpp:42] path there  : /home/ou/workspace/ros_ws/src/oslam/cmake-build-debug/devel/lib/oslam

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libgmock.so -o /home/ou/workspace/ros_ws/src/oslam/lib/libgmock.so CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.o CMakeFiles/gmock.dir/src/gmock-all.cc.o   -L/home/ou/workspace/ros_ws/src/oslam/lib  -Wl,-rpath,/home/ou/workspace/ros_ws/src/oslam/lib -lpthread 

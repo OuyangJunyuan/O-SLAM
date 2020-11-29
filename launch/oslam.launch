@@ -1,0 +1,11 @@
+<launch>
+    <!--	<include file="xxx" ns="" />	-->
+    <arg name="ros_config_name" value="ros" default="ros"/>
+    <arg name="vo_config_name" value="vo" default="vo"/>
+
+
+    <node pkg="oslam" type="oslam" output="screen">
+        <param name="ov_config_dir" value="$(find oslam)/config/$(vo_config_name).yaml"/>
+        <rosparam file="$(find oslam)/config/$(ros_config_name).yaml" command="load"/>
+    </node>
+</launch>

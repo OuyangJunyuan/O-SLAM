@@ -1,0 +1,12 @@
+Log file created at: 2020/09/30 01:49:11
+Running on machine: ou-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0930 01:49:11.548393  9627 test.cpp:46] path there  : /home/ou/workspace/ros_ws/src/oslam/cmake-build-debug/devel/lib/oslam
+I0930 01:49:11.548907  9627 test.cpp:52] dataset dir : /home/ou/文档/dataset/tum/rgbd_dataset_freiburg1_xyz
+I0930 01:49:13.823043  9627 test.cpp:133] read total 793 entries
+I0930 01:49:14.006834  9627 test.cpp:149] VO cost time : 0.171962
+I0930 01:49:22.143298  9627 test.cpp:149] VO cost time : 8.07151
+I0930 01:49:25.467460  9627 test.cpp:149] VO cost time : 3.30983
+I0930 01:49:27.970675  9627 test.cpp:149] VO cost time : 2.49033
+I0930 01:49:34.312654  9627 test.cpp:149] VO cost time : 6.32941
+I0930 01:49:42.889709  9627 test.cpp:149] VO cost time : 8.56341

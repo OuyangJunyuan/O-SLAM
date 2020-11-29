@@ -1,0 +1,21 @@
+Log file created at: 2020/09/30 15:13:42
+Running on machine: ou-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0930 15:13:42.894564  5548 test.cpp:45] path there  : /home/ou/workspace/ros_ws/src/oslam/cmake-build-debug/devel/lib/oslam
+I0930 15:13:42.895160  5548 test.cpp:51] dataset dir : /home/ou/文档/dataset/tum/rgbd_dataset_freiburg1_xyz
+I0930 15:13:45.082093  5548 test.cpp:132] read total 793 entries
+I0930 15:13:45.269737  5548 test.cpp:148] VO cost time : 0.174914
+I0930 15:13:45.363307  5548 visual_odom.cpp:83] 430
+I0930 15:14:00.986425  5548 test.cpp:148] VO cost time : 15.6456
+I0930 15:14:01.014349  5548 visual_odom.cpp:83] 430
+I0930 15:14:16.846844  5548 test.cpp:148] VO cost time : 15.8451
+I0930 15:14:16.870715  5548 visual_odom.cpp:83] 430
+I0930 15:15:52.705541  5548 test.cpp:148] VO cost time : 95.845
+I0930 15:15:52.729722  5548 visual_odom.cpp:83] 430
+I0930 15:16:44.063081  5548 test.cpp:148] VO cost time : 51.3439
+I0930 15:16:44.086349  5548 visual_odom.cpp:83] 430
+I0930 15:16:51.738921  5548 test.cpp:148] VO cost time : 7.66258
+I0930 15:16:51.767163  5548 visual_odom.cpp:83] 430
+I0930 15:17:04.732169  5548 test.cpp:148] VO cost time : 12.9774
+I0930 15:17:04.755105  5548 visual_odom.cpp:83] 429
+I0930 15:17:16.913923  5548 test.cpp:148] VO cost time : 12.1683

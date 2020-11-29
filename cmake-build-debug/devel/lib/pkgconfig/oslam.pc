@@ -1,0 +1,8 @@
+prefix=/home/ou/workspace/ros_ws/src/oslam/cmake-build-debug/devel
+
+Name: oslam
+Description: Description of oslam
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

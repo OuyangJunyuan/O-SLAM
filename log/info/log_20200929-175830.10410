@@ -1,0 +1,65 @@
+Log file created at: 2020/09/29 17:58:30
+Running on machine: ou-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0929 17:58:30.084053 10410 test.cpp:42] path there  : /home/ou/workspace/ros_ws/src/oslam/cmake-build-debug/devel/lib/oslam
+I0929 17:58:30.084533 10410 test.cpp:48] dataset dir : /home/ou/文档/dataset/tum/rgbd_dataset_freiburg1_xyz
+I0929 17:58:34.032608 10410 test.cpp:129] read total 793 entries
+I0929 17:58:34.201035 10410 test.cpp:145] VO cost time : 0.1515
+I0929 17:58:34.316100 10410 test.cpp:145] VO cost time : 0.0863719
+I0929 17:58:34.480211 10410 test.cpp:145] VO cost time : 0.149748
+I0929 17:58:34.616052 10410 test.cpp:145] VO cost time : 0.121794
+I0929 17:58:34.780419 10410 test.cpp:145] VO cost time : 0.151113
+I0929 17:58:34.886976 10410 test.cpp:145] VO cost time : 0.0912609
+I0929 17:58:35.050271 10410 test.cpp:145] VO cost time : 0.148842
+I0929 17:58:35.158746 10410 test.cpp:145] VO cost time : 0.0949597
+I0929 17:58:35.307860 10410 test.cpp:145] VO cost time : 0.135389
+I0929 17:58:35.423832 10410 test.cpp:145] VO cost time : 0.102221
+I0929 17:58:35.543242 10410 test.cpp:145] VO cost time : 0.105501
+W0929 17:58:35.697449 10410 visual_odom.cpp:58] vo has lost 1 frame.
+I0929 17:58:35.697576 10410 test.cpp:145] VO cost time : 0.141055
+W0929 17:58:35.855252 10410 visual_odom.cpp:58] vo has lost 1 frame.
+I0929 17:58:35.855298 10410 test.cpp:145] VO cost time : 0.144315
+W0929 17:58:36.000418 10410 visual_odom.cpp:58] vo has lost 1 frame.
+I0929 17:58:36.000468 10410 test.cpp:145] VO cost time : 0.131314
+W0929 17:58:36.134248 10410 visual_odom.cpp:58] vo has lost 1 frame.
+I0929 17:58:36.134263 10410 test.cpp:145] VO cost time : 0.119484
+W0929 17:58:36.272161 10410 visual_odom.cpp:58] vo has lost 1 frame.
+I0929 17:58:36.272197 10410 test.cpp:145] VO cost time : 0.123298
+I0929 17:58:36.391499 10410 test.cpp:145] VO cost time : 0.105787
+I0929 17:58:36.510455 10410 test.cpp:145] VO cost time : 0.104774
+I0929 17:58:36.650511 10410 test.cpp:145] VO cost time : 0.126668
+I0929 17:58:36.767025 10410 test.cpp:145] VO cost time : 0.103067
+I0929 17:58:36.843911 10410 test.cpp:145] VO cost time : 0.0636581
+I0929 17:58:36.988585 10410 test.cpp:145] VO cost time : 0.130907
+I0929 17:58:37.153014 10410 test.cpp:145] VO cost time : 0.15019
+W0929 17:58:37.311182 10410 visual_odom.cpp:58] vo has lost 1 frame.
+I0929 17:58:37.311198 10410 test.cpp:145] VO cost time : 0.143894
+W0929 17:58:37.467451 10410 visual_odom.cpp:58] vo has lost 1 frame.
+I0929 17:58:37.467469 10410 test.cpp:145] VO cost time : 0.142306
+W0929 17:58:37.618059 10410 visual_odom.cpp:58] vo has lost 1 frame.
+I0929 17:58:37.618077 10410 test.cpp:145] VO cost time : 0.137125
+I0929 17:58:37.750130 10410 test.cpp:145] VO cost time : 0.117346
+I0929 17:58:37.836751 10410 test.cpp:145] VO cost time : 0.072537
+I0929 17:58:37.944819 10410 test.cpp:145] VO cost time : 0.0941732
+I0929 17:58:38.041332 10410 test.cpp:145] VO cost time : 0.0823398
+I0929 17:58:38.143488 10410 test.cpp:145] VO cost time : 0.0875875
+I0929 17:58:38.277458 10410 test.cpp:145] VO cost time : 0.120021
+I0929 17:58:38.427703 10410 test.cpp:145] VO cost time : 0.136136
+I0929 17:58:38.561710 10410 test.cpp:145] VO cost time : 0.119699
+I0929 17:58:38.671710 10410 test.cpp:145] VO cost time : 0.0964688
+I0929 17:58:38.848443 10410 test.cpp:145] VO cost time : 0.162188
+I0929 17:58:39.017836 10410 test.cpp:145] VO cost time : 0.154661
+I0929 17:58:39.179219 10410 test.cpp:145] VO cost time : 0.146787
+I0929 17:58:39.358330 10410 test.cpp:145] VO cost time : 0.165646
+I0929 17:58:39.531421 10410 test.cpp:145] VO cost time : 0.158705
+I0929 17:58:39.688818 10410 test.cpp:145] VO cost time : 0.143621
+I0929 17:58:39.845114 10410 test.cpp:145] VO cost time : 0.141854
+I0929 17:58:40.024072 10410 test.cpp:145] VO cost time : 0.165008
+I0929 17:58:40.134477 10410 test.cpp:145] VO cost time : 0.0952824
+I0929 17:58:40.284098 10410 test.cpp:145] VO cost time : 0.13531
+I0929 17:58:40.405652 10410 test.cpp:145] VO cost time : 0.107615
+I0929 17:58:40.508668 10410 test.cpp:145] VO cost time : 0.0898101
+I0929 17:58:40.616837 10410 test.cpp:145] VO cost time : 0.0942914
+I0929 17:58:40.782702 10410 test.cpp:145] VO cost time : 0.147113
+I0929 17:58:40.944344 10410 test.cpp:145] VO cost time : 0.147316
+I0929 17:58:41.093791 10410 test.cpp:145] VO cost time : 0.135

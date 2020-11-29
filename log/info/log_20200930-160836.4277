@@ -1,0 +1,72 @@
+Log file created at: 2020/09/30 16:08:36
+Running on machine: ou-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0930 16:08:36.391806  4277 test.cpp:45] path there  : /home/ou/workspace/ros_ws/src/oslam/cmake-build-debug/devel/lib/oslam
+I0930 16:08:36.392294  4277 test.cpp:51] dataset dir : /home/ou/文档/dataset/tum/rgbd_dataset_freiburg1_xyz
+I0930 16:08:38.639128  4277 test.cpp:132] read total 793 entries
+I0930 16:08:38.815968  4277 test.cpp:148] VO cost time : 0.165271
+I0930 16:08:38.901032  4277 visual_odom.cpp:85] 430
+I0930 16:08:38.961175  4277 test.cpp:148] VO cost time : 0.0779114
+I0930 16:08:38.989858  4277 visual_odom.cpp:85] 430
+I0930 16:08:39.027304  4277 test.cpp:148] VO cost time : 0.0499375
+I0930 16:08:39.052752  4277 visual_odom.cpp:85] 430
+I0930 16:08:39.100147  4277 test.cpp:148] VO cost time : 0.0590885
+I0930 16:08:39.126029  4277 visual_odom.cpp:85] 430
+I0930 16:08:39.162286  4277 test.cpp:148] VO cost time : 0.0483452
+I0930 16:08:39.190671  4277 visual_odom.cpp:85] 430
+I0930 16:08:39.250946  4277 test.cpp:148] VO cost time : 0.0742456
+I0930 16:08:39.275385  4277 visual_odom.cpp:85] 430
+I0930 16:08:39.318257  4277 test.cpp:148] VO cost time : 0.0539466
+I0930 16:08:42.853734  4277 visual_odom.cpp:85] 429
+I0930 16:08:42.889298  4277 test.cpp:148] VO cost time : 3.55684
+I0930 16:08:42.921106  4277 visual_odom.cpp:85] 427
+I0930 16:08:42.966536  4277 test.cpp:148] VO cost time : 0.0640062
+I0930 16:08:42.991528  4277 visual_odom.cpp:85] 423
+I0930 16:08:43.031112  4277 test.cpp:148] VO cost time : 0.0509745
+I0930 16:08:43.057545  4277 visual_odom.cpp:85] 423
+I0930 16:08:43.090175  4277 test.cpp:148] VO cost time : 0.0443803
+I0930 16:08:43.115185  4277 visual_odom.cpp:85] 218
+I0930 16:08:43.151955  4277 test.cpp:148] VO cost time : 0.0481968
+I0930 16:08:43.179972  4277 visual_odom.cpp:85] 755
+I0930 16:08:43.261023  4277 test.cpp:148] VO cost time : 0.0951931
+I0930 16:08:43.287786  4277 visual_odom.cpp:85] 761
+I0930 16:08:43.382012  4277 test.cpp:148] VO cost time : 0.106239
+I0930 16:08:43.407804  4277 visual_odom.cpp:85] 858
+I0930 16:08:43.455906  4277 test.cpp:148] VO cost time : 0.0594502
+I0930 16:08:43.482712  4277 visual_odom.cpp:85] 858
+I0930 16:08:43.526012  4277 test.cpp:148] VO cost time : 0.0556978
+I0930 16:08:43.551856  4277 visual_odom.cpp:85] 858
+I0930 16:08:43.610462  4277 test.cpp:148] VO cost time : 0.0703445
+I0930 16:08:43.635959  4277 visual_odom.cpp:85] 858
+I0930 16:08:43.668433  4277 test.cpp:148] VO cost time : 0.0441876
+I0930 16:08:43.694103  4277 visual_odom.cpp:85] 858
+I0930 16:08:43.758159  4277 test.cpp:148] VO cost time : 0.0756181
+I0930 16:08:43.783761  4277 visual_odom.cpp:85] 857
+I0930 16:08:43.852061  4277 test.cpp:148] VO cost time : 0.0804405
+I0930 16:08:43.876716  4277 visual_odom.cpp:85] 857
+I0930 16:08:43.910188  4277 test.cpp:148] VO cost time : 0.0446392
+I0930 16:08:43.934692  4277 visual_odom.cpp:85] 858
+I0930 16:08:43.995749  4277 test.cpp:148] VO cost time : 0.0724413
+I0930 16:08:44.020643  4277 visual_odom.cpp:85] 645
+I0930 16:08:44.054239  4277 test.cpp:148] VO cost time : 0.045217
+I0930 16:08:44.079535  4277 visual_odom.cpp:85] 1146
+I0930 16:08:44.137682  4277 test.cpp:148] VO cost time : 0.0692038
+I0930 16:08:44.163817  4277 visual_odom.cpp:85] 1147
+I0930 16:08:44.224263  4277 test.cpp:148] VO cost time : 0.0725385
+I0930 16:08:44.250036  4277 visual_odom.cpp:85] 1253
+I0930 16:08:44.315560  4277 test.cpp:148] VO cost time : 0.0772412
+I0930 16:08:44.342079  4277 visual_odom.cpp:85] 1253
+I0930 16:08:44.372292  4277 test.cpp:148] VO cost time : 0.0415638
+I0930 16:08:44.397778  4277 visual_odom.cpp:85] 1055
+I0930 16:08:44.428707  4277 test.cpp:148] VO cost time : 0.0419199
+I0930 16:08:44.454068  4277 visual_odom.cpp:85] 1525
+I0930 16:08:44.501968  4277 test.cpp:148] VO cost time : 0.0590293
+I0930 16:08:44.526875  4277 visual_odom.cpp:85] 1526
+I0930 16:08:44.569530  4277 test.cpp:148] VO cost time : 0.0536962
+I0930 16:08:44.595166  4277 visual_odom.cpp:85] 1438
+I0930 16:08:44.633177  4277 test.cpp:148] VO cost time : 0.0494278
+I0930 16:08:44.664719  4277 visual_odom.cpp:85] 1916
+I0930 16:08:44.762157  4277 test.cpp:148] VO cost time : 0.113071
+I0930 16:08:44.788978  4277 visual_odom.cpp:85] 1770
+I0930 16:08:44.863183  4277 test.cpp:148] VO cost time : 0.0863791
+I0930 16:08:44.888775  4277 visual_odom.cp
